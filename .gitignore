@@ -1,0 +1,8 @@
+# Build and devel directories
+build/
+log/
+install/
+
+# Python artifacts
+*.pyc
+__pycache__/

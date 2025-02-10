@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/cam/abb_ws/install/abb_robot_msgs/include/**",
+        "/home/cam/abb_ws/install/abb_rapid_sm_addin_msgs/include/**",
+        "/home/cam/abb_ws/install/abb_rapid_msgs/include/**",
+        "/home/cam/abb_ws/install/abb_hardware_interface/include/**",
+        "/home/cam/abb_ws/install/abb_egm_msgs/include/**",
+        "/home/cam/abb_test_ws/install/abb_rapid_msgs/include/**",
+        "/home/cam/abb_test_ws/install/abb_egm_msgs/include/**",
+        "/home/cam/kinematics_interface/kinematics_interface_kdl/install/kinematics_interface_kdl/include/**",
+        "/home/cam/kinematics_interface/kinematics_interface/install/kinematics_interface/include/**",
+        "/home/cam/ros2_ws/install/realsense2_camera/include/**",
+        "/home/cam/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/cam/ros2_ws/install/examples_rclcpp_cbg_executor/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/cam/abb_test_ws/src/abb_egm_rws_managers/include/**",
+        "/home/cam/abb_test_ws/src/abb_libegm/include/**",
+        "/home/cam/abb_test_ws/src/abb_librws/include/**",
+        "/home/cam/abb_test_ws/src/abb_ros2/abb_hardware_interface/include/**",
+        "/home/cam/abb_test_ws/src/abb_ros2/abb_rws_client/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
