@@ -1,0 +1,3 @@
+[submodule "src/moveit_motion"]
+	path = src/moveit_motion
+	url = git@github.com:rysabh/moveit_motion.git
